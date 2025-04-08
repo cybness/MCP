@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\cybness\\Tolerante"
+      ],
+      "env": {
+        "PATH": "C:\\Program Files\\nodejs;%PATH%"
+      }
+    }
+  }
+}
